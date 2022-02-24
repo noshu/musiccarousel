@@ -11,4 +11,4 @@ Clone the project and `cd` into the directory and issue the following commands:
 
 ## Preview
 
-<img alt='flatlst card animation' src="preview.webp" width="400" />
+<img alt='flatlst card animation' src="preview.webp" width="350" />
